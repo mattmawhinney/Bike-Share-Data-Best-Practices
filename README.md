@@ -1,7 +1,7 @@
 CitiBike NYC / Bike Share Data Best Practices
 =====================
 
-This repository is designed to research CitiBike NYC / Bike Share data best practices and combile it into a clear ask for more data. This work is being documented in this repo's wiki.
+This repository is designed to research CitiBike NYC / Bike Share data best practices and compile it into a clear ask for more data. This work is being documented in this repo's wiki.
 
 In the wiki < https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki >, you will find links to other bike share open data systems, outlines of the data they provide, tools and apps, and examples of "open data" bike share laws.
 
