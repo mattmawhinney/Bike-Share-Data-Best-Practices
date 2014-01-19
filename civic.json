@@ -1,0 +1,14 @@
+{
+        "status": "In Progress",
+        "thumbnailUrl": "http://visconti.blogautore.espresso.repubblica.it/files/2013/05/citi-bike-at-barrow-and-hudson.jpg",
+        "bornAt": "BetaNYC Citibike Hacknights",
+        "geography": "NYC",
+        "type":"Policy Document",
+        "needs": [
+                {"need": "Your Input"}
+        ],
+        "categories": [
+                {"category": "Transportation"},
+                {"category": "Open Data"}
+        ]
+}
