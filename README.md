@@ -11,5 +11,3 @@ In addtion to this repo, BetaNYC and NYU Rudin Center for Transportation hosts a
 All of this grows from the launch of CitiBike NYC and Council Member Brad Lander introducing Int. No 1117-2013 on 24 July. This is local law would amend the administrative code of the City of New York forcing CitiBike NYC to frequently public trip data. You can [track this law on the New York City Council Legistar system](http://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1458686&GUID=A0A12057-4AE3-4CC8-BCD3-3277B0F7E1E0&Options=ID%7cText%7c&Search).
 
 BetaNYC team
-
-Sounds like an awesome project!
